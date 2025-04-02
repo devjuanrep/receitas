@@ -1,2 +1,2 @@
 # receitas
-vou fazer meu melhor fica vendo ai
+primeiro site; usando receitas como base.
